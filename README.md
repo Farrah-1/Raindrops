@@ -1,6 +1,6 @@
 # Raindrops
 
-###**Assignment** 
+### **Assignment** 
 
 Raindrops
 
@@ -21,7 +21,7 @@ This test can be completed in a language of your choice and should be made avail
 
 You will be assessed on the quality of your code, functional correctness, and your approach to quality assurance and testing.
 
-###**Files** 
+### **Files** 
 
 Link to the code file - [https://github.com/Farrah-1/Raindrops/blob/main/src/main/java/com/sparta/fw/Raindrops.java]
 Link to the testing file - [https://github.com/Farrah-1/Raindrops/blob/main/src/test/java/com/sparta/fw/TestingRaindrops.java]
