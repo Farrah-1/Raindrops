@@ -1,8 +1,12 @@
 # Raindrops
 
-### **Assignment** 
+### **Files** 
 
-Raindrops
+Link to the code file - [https://github.com/Farrah-1/Raindrops/blob/main/src/main/java/com/sparta/fw/Raindrops.java] --
+
+Link to unit testing file - [https://github.com/Farrah-1/Raindrops/blob/main/src/test/java/com/sparta/fw/TestingRaindrops.java]
+
+### **Assignment** 
 
 Write a function that takes as its input a number (n) and converts it to a string, the contents of which depend on the numbers factors
 
@@ -11,17 +15,8 @@ Write a function that takes as its input a number (n) and converts it to a strin
 - if the number has a factor of 7, output 'Plong'
 - if the number does not have any of the above as a factor simply return the numbers digits
 
-## Examples
+#### Examples
 
 - 28's factors are 1, 2, 4, 7, 14 and 28: this would be a simple 'Plong'
 - 30's factors are 1, 2, 3, 5, 6, 10, 15, 30: this would be a 'PlingPlang'
 - 34 has four factors: 1, 2, 17, and 34: this would be '34'
-
-This test can be completed in a language of your choice and should be made available on your Github account in a public repository that does not mention Deloitte. You should write tests to cover your expected range of inputs and outputs. Commit often and document well.
-
-You will be assessed on the quality of your code, functional correctness, and your approach to quality assurance and testing.
-
-### **Files** 
-
-Link to the code file - [https://github.com/Farrah-1/Raindrops/blob/main/src/main/java/com/sparta/fw/Raindrops.java]
-Link to the testing file - [https://github.com/Farrah-1/Raindrops/blob/main/src/test/java/com/sparta/fw/TestingRaindrops.java]
